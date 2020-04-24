@@ -14,6 +14,6 @@ function throwFrisbee(name, breed) {
   console.log(`Throw the frisbee for ${name} the ${breed}`);
 }
 
-function wakeDog(name, breed) {
-  console.log(`Wake ${name} the ${breed}`);
+function walkHome(name, breed) {
+  console.log(`Walk home with ${name} the ${breed}`);
 }
